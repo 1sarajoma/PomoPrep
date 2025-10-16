@@ -33,44 +33,30 @@ git clone https://github.com/yourusername/PomoStudy.git
 cd PomoStudy
 ```
 2. Install dependencies
-bash
-Copy code
+```bash
 npm install
+```
 3. Run the development server
-bash
-Copy code
+```bash
 npm run dev
+```
 4. Open in your browser
-arduino
-Copy code
+```bash
 http://localhost:5173
 (Port may vary depending on setup.)
-
+```
 ## 🧠 How It Works
-Start a Pomodoro session by selecting a subject.
+- Start a Pomodoro session by selecting a subject.
 
-Once the timer ends, record:
+- Once the timer ends, record:
 
-Topics covered
+- Topics covered
 
-Notes or reminders (e.g., “Revisit question 3”)
+- Notes or reminders (e.g., “Revisit question 3”)
 
-Each completed session is logged under the chosen subject.
+- Each completed session is logged under the chosen subject.
 
-Click on any subject to view past sessions, timestamps, and notes.
-
-## 🗂️ Project Structure
-bash
-Copy code
-src/
- ├── components/
- │    ├── Timer.jsx          # Pomodoro timer logic + UI
- │    ├── StudyForm.jsx      # Input form for logging sessions
- │    ├── SubjectList.jsx    # Organized subject-based study history
- │
- ├── App.jsx                 # Main component handling state + structure
- ├── index.css               # Tailwind setup
- ├── main.jsx                # Entry point
+- Click on any subject to view past sessions, timestamps, and notes.
 
 ## ✨ Future Improvements
 🔁 Sync data to a backend (Firebase or Supabase)
