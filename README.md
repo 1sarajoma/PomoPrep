@@ -31,6 +31,7 @@ It helps students track subjects, topics, and notes across multiple sessions —
 ```bash
 git clone https://github.com/yourusername/PomoStudy.git
 cd PomoStudy
+```
 2. Install dependencies
 bash
 Copy code
