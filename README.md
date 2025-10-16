@@ -29,8 +29,8 @@ It helps students track subjects, topics, and notes across multiple sessions —
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/PomoStudy.git
-cd PomoStudy
+git clone https://github.com/yourusername/PomoPrep.git
+cd PomoPrep
 ```
 2. Install dependencies
 ```bash
@@ -59,10 +59,10 @@ http://localhost:5173
 - Click on any subject to view past sessions, timestamps, and notes.
 
 ## ✨ Future Improvements
-🔁 Sync data to a backend (Firebase or Supabase)
+- 🔁 Sync data to a backend (Firebase or Supabase)
 
-💬 AI Study Assistant (auto-summarize notes or suggest review questions)
+- 💬 AI Study Assistant (auto-summarize notes or suggest review questions)
 
-📊 Analytics Dashboard (time spent per subject, daily streaks)
+- 📊 Analytics Dashboard (time spent per subject, daily streaks)
 
-🔔 Custom notifications and long-break timers
+- 🔔 Custom notifications and long-break timers
