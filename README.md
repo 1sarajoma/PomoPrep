@@ -45,7 +45,7 @@ Copy code
 http://localhost:5173
 (Port may vary depending on setup.)
 
-🧠 How It Works
+## 🧠 How It Works
 Start a Pomodoro session by selecting a subject.
 
 Once the timer ends, record:
@@ -58,7 +58,7 @@ Each completed session is logged under the chosen subject.
 
 Click on any subject to view past sessions, timestamps, and notes.
 
-🗂️ Project Structure
+## 🗂️ Project Structure
 bash
 Copy code
 src/
@@ -70,7 +70,8 @@ src/
  ├── App.jsx                 # Main component handling state + structure
  ├── index.css               # Tailwind setup
  ├── main.jsx                # Entry point
-✨ Future Improvements
+
+## ✨ Future Improvements
 🔁 Sync data to a backend (Firebase or Supabase)
 
 💬 AI Study Assistant (auto-summarize notes or suggest review questions)
