@@ -52,7 +52,7 @@ export default function App() {
   return (
     <div className={`min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-100 p-6 bg-transition ${siteBgClass}`}>
       <header className="text-center mb-6">
-        <h1 className="title">PomoStudy 🧠</h1>
+        <h1 className="title">PomoPrep 🧠</h1>
         <p className="text-gray-500">Your personal study companion.</p>
       </header>
 
